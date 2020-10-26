@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="mycss.css" type="text/css"?>
+<books>
+<heading>火星書局</heading>
+<book>
+<title>花火愛情故事</title>
+<author>黑煤球</author>
+<publisher>火星出版社</publisher>
+<price>$200</price>
+</book>
+<book>
+<title>花火愛情故事2</title>
+<author>黑煤球</author>
+<publisher>火星出版社</publisher>
+<price>$200</price>
+</book>
+</books>
